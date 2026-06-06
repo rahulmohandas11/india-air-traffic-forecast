@@ -7,3 +7,4 @@ statsforecast
 hierarchicalforecast
 jupyter
 ipykernel
+lightgbm
