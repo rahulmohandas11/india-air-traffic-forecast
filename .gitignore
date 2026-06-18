@@ -5,6 +5,6 @@ __pycache__/
 venv/
 .env
 data/raw/
-outputs/
+outputs/*.csv
 *.egg-info/
 .DS_Store
