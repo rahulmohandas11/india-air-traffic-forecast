@@ -83,8 +83,6 @@ notebooks/ # EDA and modelling experiments
 src/ # reusable modules: data preparation, forecasting and reconciliation
 outputs/ # charts, tables, results (gitignored)
 ```
-## Status
-Active build - sprint April 2026
 
 ## Author
 Rahul Mohan - Senior Consultant, EY-Parthenon | PG Diploma in Advanced Business Analytics, IIM Ahmedabad
